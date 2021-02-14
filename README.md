@@ -10,3 +10,4 @@
 #Perform In-Depth Analysis of Uber Base Number
 
 #@Alexander_Kuria https://github.com/AlexanderKuria/Uber-New-york-Data-Analysis
+# Thanks to Instructor Shan Singh  who shared the data set and also who is a Data Scientist by Professional,a Data Scientist having experience of 6 years in finance, retail and transport.
